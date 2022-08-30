@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color:sienna;
+    height: 50px;
+    padding: 20px;
+}
+
+ul{
+    display: flex;
+    margin: 15px;
+}
+
+li{
+    list-style: none;
+    padding: 10px;
+    
+}
+
+li a{
+    color: white;
+    text-decoration: none;
+}
+main {
+    background-color:slateblue;
+    height: 150px;
+    padding: 10px;
+}
+main h1{
+    text-align: center;
+    padding: 10px;
+}
+main p {
+    border: 2px solid white;
+    padding: 10px;
+    text-align: center;
+}
